@@ -28,13 +28,7 @@ import requests
 
 # --- API key rotation support ---
 API_KEYS = [
-    "AIzaSyB0jnjPnNadFwHgVBSjlJC983NyxYCAcjc",
-    "AIzaSyCYDdffhCEKauoHtuWDyE5TpC5wmojvrY4",
-    "AIzaSyAKEelsmM7wunFoazhtVq68y9VV0N7N1iI",
-    "AIzaSyA0ygat1NZ0isS8gwFuUECw5P6kAhU3D8Y",
-    "AIzaSyA3QqHNmeSGBcqKyKAj3CGqSHpjR2HY-i0",
-    "AIzaSyA49b5OwvfWpqSef_9FKsJ91npFszvVGjM",
-    "AIzaSyAPoMTive8VCnoF59APWtM1ssrpEpOJjwE"
+
 ]
 _current_key_idx = 0
 
